@@ -1,4 +1,4 @@
-<h2 align="center">Meu nome é Eduardo</h2>
+<h2 align="center">Meu nome é Eduardo, faço curso de Desenvolvimento de Sistemas no colégio Estadual Presidente Kennedy</h2>
 
 ###
 
